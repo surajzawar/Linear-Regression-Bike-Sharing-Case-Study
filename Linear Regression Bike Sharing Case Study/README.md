@@ -1,5 +1,5 @@
 # Project Name
-> Linear Regression Assignment
+> Linear Regression Bike sharing case study Assignment
 
 
 ## Table of Contents
